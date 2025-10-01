@@ -1,3 +1,4 @@
+package Ejercicio3;    
 //Clase TipoCambio que posee unicamente un metodo para convertir las monedas respectivas
 public class TipoCambio {
     double obtenerValorCambio (String tipoCambio, double cantidadDinero){

@@ -1,3 +1,4 @@
+package Ejercicio3;
 //Clase hija de Moneda
 public class Dolar extends Moneda{
     public Dolar(double valor) {

@@ -20,7 +20,7 @@ public class MElectrico extends Motor {
     // Overrides
     @Override
     public String toString() {
-        return "Marca" + marca + "Serie" + numSerie + "Precio" + precioM + " Amperage: " + amperage;
+        return "Marca: " + marca + ","+ " Serie: "+ numSerie + "," + " Precio: " + precioM +"$"+","+  " Amperage:  " + amperage;
     }
 
     @Override

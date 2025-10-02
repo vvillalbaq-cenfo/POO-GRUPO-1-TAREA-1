@@ -22,7 +22,7 @@ public class MCDiesel extends MCombustible {
     // Overrides
     @Override
     public String toString() {
-        return "Marca" + marca + "Serie" + numSerie + "Precio" + precioM + " Potencia: " + potencia;
+        return "Marca: " + marca + ","+ " Serie: "+ numSerie + "," + " Precio: " + precioM +"$"+","+  " Potencia:  " + potencia;
     }
 
     @Override

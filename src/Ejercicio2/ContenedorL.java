@@ -5,14 +5,14 @@ import java.util.Collections;
 import java.util.Comparator;
 
 //CLASE QUE MODELA LA LISTA DE PACIENTES DEL HOSPITAL
-public class ContendorL {
+public class ContenedorL {
 
     // ATRIBUTO
     private ArrayList<PacienteCovid> listaPacientes;
 
     // CONSTRUCTOR (SE PUEDE NOTAR LA RELACION DE COMPOSICION PORQUE EN EL
     // CONSTRUCTOR SE INICIALIZA EL ARRAY)
-    public ContendorL() {
+    public ContenedorL() {
         listaPacientes = new ArrayList<>();
     }
 

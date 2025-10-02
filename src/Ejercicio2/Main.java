@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class Main {
 
     // ELEMENTOS GLOBALES PARA QUE LOS DIFERENTES METODOS PUEDAN ACCESAR
-    static ContendorL contenedor = new ContendorL();
+    static ContenedorL contenedor = new ContenedorL();
     static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
     // METODO MAIN DEL PROGRAMA
